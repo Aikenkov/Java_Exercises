@@ -1,18 +1,30 @@
-## Getting Started
+# Exercícios de Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem-vindo ao repositório de exercícios de Java! Este projeto tem como objetivo armazenar os exercícios que estou realizando para praticar e aprimorar meus conhecimentos em Java.
 
-## Folder Structure
+## Estrutura do projeto
 
-The workspace contains two folders by default, where:
+Os exercícios estão organizados em pastas de acordo com a aula em que foram realizados. Cada exercício possui um arquivo Java correspondente dentro da respectiva pasta. Por exemplo:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+src/
+├── Aula1/
+│ ├── nomedoexercicio.java
+├── Aula2/
+│ ├── nomedoexercicio.java
+├── Aula3/
+│ ├── nomedoexercicio.java
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Dentro de cada pasta de aula, você encontrará os arquivos de exercícios em Java correspondentes.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Como testar os exercícios
 
-## Dependency Management
+Para testar os exercícios, siga estas etapas:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Certifique-se de ter o JDK (Java Development Kit) instalado em seu sistema.
+2. Faça o clone deste repositório em sua máquina local.
+3. Navegue até o diretório clonado do projeto.
+4. Dentro do diretório do projeto, navegue até a pasta correspondente ao exercício que deseja testar e execute ele.
+
+# Sinta-se a vontade para clonar o repositório e tentar realizar os exercícios por conta própria.
+
+
