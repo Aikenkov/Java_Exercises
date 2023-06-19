@@ -6,13 +6,13 @@ Bem-vindo ao repositório de exercícios de Java! Este projeto tem como objetivo
 
 Os exercícios estão organizados em pastas de acordo com a aula em que foram realizados. Cada exercício possui um arquivo Java correspondente dentro da respectiva pasta. Por exemplo:
 
-src/
-├── Aula1/
-│ ├── nomedoexercicio.java
-├── Aula2/
-│ ├── nomedoexercicio.java
-├── Aula3/
-│ ├── nomedoexercicio.java
+src/ <br>
+├── Aula1/ <br>
+│ ├── nomedoexercicio.java <br>
+├── Aula2/ <br>
+│ ├── nomedoexercicio.java <br>
+├── Aula3/ <br> 
+│ ├── nomedoexercicio.java <br>
 
 Dentro de cada pasta de aula, você encontrará os arquivos de exercícios em Java correspondentes.
 
