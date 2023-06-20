@@ -30,7 +30,7 @@ Para testar os exercícios, siga estas etapas:
 2. Execute o arquivo do exercício com o comando `java`: java MultiplicaAi.java
 3. Em caso de erro envolvendo packages: javac nomedoarquivo.java
 
-## Rodar uma classe específica:
+## Rodar com chamadas específicas em App.java:
 
 1. Dentro do diretório do projeto, navegue até a pasta principal: cd src/
 2. Retire o comentário dos exercícios que quer rodar
