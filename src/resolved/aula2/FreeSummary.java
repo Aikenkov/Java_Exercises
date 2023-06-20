@@ -5,19 +5,27 @@ public class FreeSummary {
   private String name;
   private String text;
 
-   public String getName(){
-    return this.name;
-  }
-   public String getSubject(){
-    return this.subject;
-  }
-   public String getText(){
-    return this.text;
+  public String getSubject() {
+    return subject;
   }
 
-  public void setSummary(String subject, String name, String text){
-      this.name = name;
-      this.subject = subject;
-      this.text = text;
+  public String getName() {
+    return name;
+  }
+
+  public String getText() {
+    return text;
+  }
+
+  public void setSubject(String subject) {
+    this.subject = subject;
+  }
+
+  public void setName(String name) {
+    this.name = name;
+  }
+
+  public void setText(String text) {
+    this.text = text;
   }
 }

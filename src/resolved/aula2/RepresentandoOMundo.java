@@ -18,7 +18,9 @@ public class RepresentandoOMundo {
         String summaryText = "Para criar um loop for uzando JavaScript é neccessário seguir estes passos...";
 
         FreeSummary summary = new FreeSummary();
-        summary.setSummary(summarySubject, summaryName, summaryText);
+        summary.setName(summaryName);
+        summary.setSubject(summarySubject);
+        summary.setText(summaryText);
         System.out.println(summary.getName());
         System.out.println(summary.getSubject());
         System.out.println(summary.getText());
