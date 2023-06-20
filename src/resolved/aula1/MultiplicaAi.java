@@ -1,4 +1,4 @@
-package aula1;
+package resolved.aula1;
 
 /* Enunciado:
  * Escreva um código que deve imprimir a tabela de multiplicação desse algum número fornecido,

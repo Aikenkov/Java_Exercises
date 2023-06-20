@@ -1,6 +1,6 @@
-import aula1.DuplicadosNao;
-import aula1.MultiplicaAi;
-import aula1.PiramideDeNumeros;
+import resolved.aula1.DuplicadosNao;
+import resolved.aula1.MultiplicaAi;
+import resolved.aula1.PiramideDeNumeros;
 
 public class App {
     public static void main(String[] args) {

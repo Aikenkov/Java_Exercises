@@ -1,4 +1,4 @@
-package aula1;
+package resolved.aula1;
 
 /* Enunciado:
  * Crie utilizando tudo que aprendeu até o momento, uma pirâmide de números, onde
