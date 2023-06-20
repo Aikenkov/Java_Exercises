@@ -11,7 +11,7 @@ src/ <br>
 │ ├── nomedoexercicio.java <br>
 ├── aula2/ <br>
 │ ├── nomedoexercicio.java <br>
-├── aula3/ <br> 
+├── aula3/ <br>
 │ ├── nomedoexercicio.java <br>
 
 Dentro de cada pasta de aula, você encontrará os arquivos de exercícios em Java correspondentes.
@@ -23,9 +23,20 @@ Para testar os exercícios, siga estas etapas:
 1. Certifique-se de ter o JDK (Java Development Kit) instalado em seu sistema.
 2. Faça o clone deste repositório em sua máquina local.
 3. Navegue até o diretório clonado do projeto: cd Java_Exercises.
-4. Dentro do diretório do projeto, navegue até a pasta correspondente ao exercício que deseja testar: cd src/aula1.
-5. Execute o arquivo do exercício com o comando `java`: java MultiplicaAi.java 
+
+## Rodar uma classe específica:
+
+1. Dentro do diretório do projeto, navegue até a pasta correspondente ao exercício que deseja testar: cd src/aula1.
+2. Execute o arquivo do exercício com o comando `java`: java MultiplicaAi.java
+3. Em caso de erro envolvendo packages: javac nomedoarquivo.java
+
+## Rodar uma classe específica:
+
+1. Dentro do diretório do projeto, navegue até a pasta principal: cd src/
+2. Retire o comentário dos exercícios que quer rodar
+3. Execute o arquivo do exercício com o comando `java`: java App.java
+4. Em caso de erro envolvendo packages: javac nomedoarquivo.java
 
 # Sinta-se a vontade para clonar o repositório e tentar realizar os exercícios por conta própria.
 
-
+## Há no pacote src/unresolved todos os exercícios ainda não implementados e seus enunciados para que você possa tentar também!
